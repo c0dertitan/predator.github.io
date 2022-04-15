@@ -1,2 +1,0 @@
-# Predator Software
-Predators.
